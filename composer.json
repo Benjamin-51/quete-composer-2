@@ -1,0 +1,16 @@
+{
+    "name": "sayhello/benjamin",
+    "description": "A class that says hello",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin-51",
+            "email": "babilliot.benjamin@gmail.com"
+        }
+    ],
+    "require": {}
+}
